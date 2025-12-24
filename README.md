@@ -102,7 +102,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 **Naveen**
 *   GitHub: [nxvinn29](https://github.com/nxvinn29)
-*   Portfolio: [Live Site](https://naveendesigner.netlify.app/)
+*   Portfolio: [Live Site](https://naveenportfolio02.netlify.app/)
 
 ---
 *Made with ❤️ by Naveen*
